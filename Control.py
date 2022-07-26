@@ -5,7 +5,7 @@ from scipy.integrate import odeint
 
 g = 9.8
 
-#Hello
+#HelloWorld
 # The following function gives the ordinary differential
 # equation that our plant follows. Do not meddle with this.
 def f(x, t, theta):
